@@ -1265,8 +1265,7 @@ section {
 }
 
 @media (max-width: 768px) {
-  .breadcrumbs .d-flex {
-    display: block !important;
+  .breadcrumbs {
     margin-top: 78px;
   }
 
