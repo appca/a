@@ -1228,10 +1228,10 @@ section {
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
-  padding: 15px 0;
+  padding: 40px 0 15px 0;
   background: #f8fbfe;
-  min-height: 40px;
-  margin-top: 72px;
+  min-height: 100px;
+  margin-top: 42px;
 }
 
 .breadcrumbs h2 {
